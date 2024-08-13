@@ -1,7 +1,5 @@
-Creating a GitHub README for Your Python Project with MongoDB Vector Search and Hugging Face Sentence Transformer
-
 Introduction
-Welcome to your new Python project! This README will guide you through the setup, features, and usage of your application, which leverages the power of MongoDB's vector search and Hugging Face's sentence transformer.
+This README will guide you through the setup, features, and usage of your application, which leverages the power of MongoDB's vector search and Hugging Face's sentence transformer.
 
 Prerequisites
 Before you begin, ensure you have the following installed:
