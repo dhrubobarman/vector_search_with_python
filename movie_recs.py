@@ -14,6 +14,7 @@ result = utils.collection.aggregate([{
     }
 }])
 
+
 for document in result:
     print(f"{document['title']}:\n{document['plot']}")
 print('------------------finished------------------\n')
